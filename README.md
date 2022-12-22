@@ -1,7 +1,8 @@
 # excel-challenge
 ## Module 1 homework
 ### Spreadsheet is CrowdfundingBook.xlsx
-### Report is Report.docx, but the report is ALSO listed below:
+### Report is Report.docx, but the report is ALSO listed below.
+### Statistical Analysis final questions are in the spreadsheet Statistical Analysis sheet, but are ALSO below as well:
 
 
 # Crowdfunding Analysis Report
@@ -32,3 +33,17 @@ The data is limited by not containing the specific platform, and perhaps more im
 •	It would be helpful to include a table and line graph with an axis of “length of campaign” (defined by number of weeks), and “outcome” as the legend and “count of outcome” as values. This can show any impact that campaign duration has on eventual success rates.
 
 •	A column bar chart with an axis of ”country” showing values of the “average of average donation”, with a legend of “parent category”. This would illustrate which category yields higher donation sizes within each country.
+
+
+# Statistical Analysis ending questions
+
+## Use your data to determine whether the mean or the median better summarizes the data.
+I feel that the median better summarizes the data because the middle point represents the more likely number of backers in a typical campaign.
+The mean is an average which is scewed heavily upward by a fewer number of much large campaigns, which is not typical.
+
+
+## Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+There is more variability in the successful campains.
+This makes sense because successful campains could exceed their goals by any amount, growing much larger with little constraints.
+Failed campaigns that do not reach their goals would not continue to grow in size, and therefore remain under their goals.
+
