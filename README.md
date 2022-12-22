@@ -39,11 +39,11 @@ The data is limited by not containing the specific platform, and perhaps more im
 
 ## Use your data to determine whether the mean or the median better summarizes the data.
 I feel that the median better summarizes the data because the middle point represents the more likely number of backers in a typical campaign.
-The mean is an average which is scewed heavily upward by a fewer number of much large campaigns, which is not typical.
+The mean is an average which is skewed heavily upward by a fewer number of much large campaigns, which is not typical.
 
 
 ## Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 There is more variability in the successful campains.
 This makes sense because successful campains could exceed their goals by any amount, growing much larger with little constraints.
-Failed campaigns that do not reach their goals would not continue to grow in size, and therefore remain under their goals.
+Failed campaigns that do not reach their goals would not continue to grow in size, and therefore remain capped under their goals.
 
